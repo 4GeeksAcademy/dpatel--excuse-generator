@@ -4,16 +4,28 @@ window.onload = function() {
     "My mother ",
     "My dad ",
     "My dog ",
-    "My best friend"
+    "My best friend "
   ];
-  let action = ["crushed", "burned", "yelled at", "chewed up", "puked on"];
-  let what = ["my homework", "my car", "my computer", "my dog", "my phone"];
+  let action = [
+    " crushed ",
+    " burned ",
+    " yelled at ",
+    " chewed up ",
+    " puked on "
+  ];
+  let what = [
+    " my homework ",
+    " my car ",
+    " my computer ",
+    " my dog ",
+    " my phone "
+  ];
   let when = [
-    "last night.",
-    "this morning.",
-    "during vacation.",
-    "during yoga.",
-    "5 minutes ago."
+    " last night.",
+    " this morning.",
+    " during vacation.",
+    " during yoga.",
+    " 5 minutes ago."
   ];
 
   function generateExcuse() {
